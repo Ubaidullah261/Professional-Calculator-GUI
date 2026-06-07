@@ -1,5 +1,5 @@
 # Professional Python Calculator (GUI)
-This is a professional desktop calculator application developed using Python and the Tkinter library. It was created as part of my technical portfolio to demonstrate GUI development and logical programming skills.
+This is a professional desktop calculator application developed using Python and the Tkinter library. It was created as part of my technical portfolio to demonstrate GUI development and logical programming skills. It is one of my initial python projects.
 
 ## Features
 * **Basic Arithmetic Operations**: Supports addition, subtraction, multiplication, and division.
